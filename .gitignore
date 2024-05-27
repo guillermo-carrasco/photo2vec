@@ -1,0 +1,15 @@
+# Google export files and prerpocessed directories
+Export
+images
+
+# Any results file (all of them with personal information like names or URLs)
+*.csv
+*.html
+
+# PyCharm
+.idea
+.ipynb_checkpoints
+__pycache__
+
+# Others
+.DS_Store
